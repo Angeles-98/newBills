@@ -7,7 +7,7 @@
             "impuesto":"3000",
             "valor":"35500",
             "descuento":"2500"
-        },
+        },{
             "num_documento":"3322",
             "nombre":"Angeles Abello",
             "fecha":"02-12-2021",
@@ -15,7 +15,7 @@
             "impuesto":"3000",
             "valor":"45500",
             "descuento":"2500"
-        },
+        },{
             "num_documento":"4466",
             "nombre":"Angel Taborda",
             "fecha":"10-12-2021",
@@ -23,7 +23,7 @@
             "impuesto":"3000",
             "valor":"50000",
             "descuento":"3000"
-        },
+        },{
             "num_documento":"7799",
             "nombre":"A Abello",
             "fecha":"03-12-2021",
@@ -31,7 +31,7 @@
             "impuesto":"3000",
             "valor":"38000",
             "descuento":"0"
-        },
+        },{
             "num_documento":"1177",
             "nombre":"M Abello",
             "fecha":"04-12-2021",
